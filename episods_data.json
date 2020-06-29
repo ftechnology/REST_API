@@ -1,0 +1,109 @@
+{
+	"episod": {
+		"count": "2",
+		"errorCount": "1",
+		"data": [{
+				"Title": "Dhaka attack",
+				"Year": "1988",
+				"movieId": "tt0095759",
+				"Type": "Premium",
+				"status": "New",
+				"category": "Action,Adventure",
+				"description": "Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle. Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.",
+				"Director": "Director",
+				"trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+				"streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"Poster": "https://i.pinimg.com/originals/58/e8/aa/58e8aa2f4e649c7a7d4a0394f4cfaf57.jpg"
+			},
+			{
+				"Title": "The Sokhochil",
+				"Year": "1988",
+				"movieId": "tt0095759",
+				"Type": "Premium",
+				"status": "New",
+				"category": "Action,Adventure",
+				"description": "Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle. Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.",
+				"Director": "Director",
+				"trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+				"streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"Poster": "https://m.media-amazon.com/images/M/MV5BODQ1YjllY2QtMTFhYy00Y2Y5LWIwYjEtYWVlYjE3NWQzN2JlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+			}, {
+				"Title": "Password",
+				"Year": "1988",
+				"movieId": "tt0095759",
+				"Type": "Premium",
+				"status": "New",
+				"category": "Action,Adventure",
+				"description": "Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle. Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.",
+				"Director": "Director",
+				"trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+				"streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Password_Poster.jpg/220px-Password_Poster.jpg"
+			}, {
+				"Title": "Bomkesh",
+				"Year": "1988",
+				"movieId": "tt0095759",
+				"Type": "Premium",
+				"status": "New",
+				"category": "Action,Adventure",
+				"description": "Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle. Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.",
+				"Director": "Director",
+				"trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+				"streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"Poster": "https://static.toiimg.com/photo/65402211.cms"
+			}, {
+				"Title": "Dhaka attack",
+				"Year": "1988",
+				"movieId": "tt0095759",
+				"Type": "Premium",
+				"status": "New",
+				"category": "Action,Adventure",
+				"description": "Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle. Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.",
+				"Director": "Director",
+				"trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+				"streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"Poster": "https://i.pinimg.com/originals/58/e8/aa/58e8aa2f4e649c7a7d4a0394f4cfaf57.jpg"
+			},
+			{
+				"Title": "The Sokhochil",
+				"Year": "1988",
+				"movieId": "tt0095759",
+				"Type": "Premium",
+				"status": "New",
+				"category": "Action,Adventure",
+				"description": "Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle. Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.",
+				"Director": "Director",
+				"trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+				"streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"Poster": "https://m.media-amazon.com/images/M/MV5BODQ1YjllY2QtMTFhYy00Y2Y5LWIwYjEtYWVlYjE3NWQzN2JlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+			}, {
+				"Title": "Password",
+				"Year": "1988",
+				"movieId": "tt0095759",
+				"Type": "Premium",
+				"status": "New",
+				"category": "Action,Adventure",
+				"description": "Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle. Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.",
+				"Director": "Director",
+				"trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+				"streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Password_Poster.jpg/220px-Password_Poster.jpg"
+			}, {
+				"Title": "Bomkesh",
+				"Year": "1988",
+				"movieId": "tt0095759",
+				"Type": "Premium",
+				"status": "New",
+				"category": "Action,Adventure",
+				"description": "Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle. Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.",
+				"Director": "Director",
+				"trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+				"streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"Poster": "https://static.toiimg.com/photo/65402211.cms"
+			}
+		],
+		"error": [{
+			"message": "Some critical error. Cannot load data properly"
+		}]
+	}
+}
